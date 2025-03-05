@@ -1,4 +1,4 @@
-# Airbus Ship Detection Project
+# Airbus Ship Detection App
 
 ## Overview
 This project implements a deep learning model for ship detection using a U-Net-like convolutional neural network architecture. The model is trained on the Airbus Ship Detection dataset from Kaggle and can identify ships in satellite imagery.
